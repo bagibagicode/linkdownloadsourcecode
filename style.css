@@ -20,7 +20,7 @@ p {
   font-family: 'Poppins', sans-serif;
   font-weight: 300;
   text-align: center;
-  font-size: 15.5px;
+  font-size: 30px;
   color: #676767;
 }
 
@@ -33,8 +33,8 @@ button {
   margin: 20px;
 }
 .custom-btn {
-  width: 160px;
-  height: 55px;
+  width: 200px;
+  height: 70px;
   color: #fff;
   border-radius: 7px;
   padding: 10px 25px;
